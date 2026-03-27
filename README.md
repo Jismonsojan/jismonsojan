@@ -32,18 +32,18 @@
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="[https://instagram.com](https://www.instagram.com/__j__i__s___?igsh=MW9qNTN3cjd3cGh0cQ==)">
+   <a href="https://www.instagram.com/__j__i__s___">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="www.linkedin.com/in/jismon-sojan-8ba539203">
+  <a href="https://www.linkedin.com/in/jismon-sojan-8ba539203">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
 </p>
 
 
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=Jismonsojan&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
